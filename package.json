@@ -14,7 +14,9 @@
     "compression"
   ],
   "main": "lib/cabinet.js",
-  "dependencies": {},
+  "dependencies": {
+    "buffer": "^6.0.3"
+  },
   "devDependencies": {
     "mocha": "^6.1.4",
     "nanobench": "^2.1.0"
